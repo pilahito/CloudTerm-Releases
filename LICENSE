@@ -1,0 +1,150 @@
+CloudTerm Source-Available License v1.0
+(Licencia de código disponible de CloudTerm, v1.0)
+
+SPDX-License-Identifier: LicenseRef-CloudTerm-SAL-1.0
+Copyright (c) 2026 pilahito (DavidPilahito7) — https://github.com/pilahito
+Todos los derechos reservados / All rights reserved.
+
+La versión en español es la que prevalece. La traducción al inglés se incluye
+solo como referencia; en caso de discrepancia, manda el texto en español.
+
+The Spanish version prevails. The English translation is provided for reference
+only; in case of any discrepancy, the Spanish text governs.
+
+===============================================================================
+ESPAÑOL (texto válido)
+===============================================================================
+
+0. Definiciones
+   «Software»: CloudTerm (escritorio y Android), su código fuente, binarios,
+   instaladores, documentación y recursos incluidos en este repositorio.
+   «Autor»: pilahito (DavidPilahito7), titular de los derechos.
+   «Tú»: cualquier persona física o jurídica que obtenga el Software.
+
+1. Lo que SÍ puedes hacer (gratis)
+   a) Descargar, instalar y USAR el Software, tanto para uso personal como para
+      uso interno o profesional (incluido dentro de una empresa), sin coste.
+   b) Ver y leer el código fuente para estudiarlo, auditarlo o comprobar su
+      seguridad.
+   c) Compilar el código fuente sin modificar únicamente para tu propio uso,
+      sin distribuir el resultado.
+
+2. Lo que NO puedes hacer sin permiso previo y por escrito del Autor
+   a) Modificar el Software o crear obras derivadas de él (forks publicados,
+      versiones adaptadas, reutilización de partes del código en otro producto).
+   b) Redistribuir copias del Software, modificadas o sin modificar, por
+      cualquier medio (webs, repositorios espejo, paquetes, torrents, etc.).
+   c) Publicar el Software o versiones basadas en él en tiendas de
+      aplicaciones (Google Play, App Store, Microsoft Store, F-Droid, Snap,
+      Flathub u otras).
+   d) Vender, alquilar, sublicenciar o cobrar de cualquier forma por el
+      Software, ni ofrecerlo como servicio de pago (SaaS, hosting, etc.).
+   e) Eliminar o alterar los avisos de copyright o de esta licencia.
+   Los permisos se piden a través de GitHub: https://github.com/pilahito
+
+3. Marca, nombre y logotipo
+   El nombre «CloudTerm», su logotipo e iconos son del Autor. Esta licencia no
+   concede ningún derecho a usarlos, salvo para referirse con veracidad al
+   Software original. Ningún otro proyecto puede usarlos para presentarse como
+   CloudTerm o como algo relacionado con él.
+
+4. Contribuciones
+   Se aceptan contribuciones mediante pull requests al repositorio oficial. Al
+   enviar una contribución, declaras que tienes derecho a hacerlo y concedes al
+   Autor una licencia perpetua, mundial, gratuita, irrevocable y transferible
+   para usar, modificar, sublicenciar y distribuir esa contribución como parte
+   del Software, bajo esta u otra licencia. Preparar una contribución en tu
+   copia local con ese único fin está permitido.
+
+5. Componentes de terceros
+   El Software incluye bibliotecas, fuentes y recursos de terceros con sus
+   propias licencias (MIT, Apache-2.0, BSD, MPL-2.0, ISC, OFL-1.1, etc.). Esos
+   componentes se rigen por sus licencias respectivas y esta licencia no las
+   limita.
+
+6. Versiones anteriores
+   Las versiones del Software publicadas antes de este cambio de licencia se
+   distribuyeron bajo la GNU AGPL-3.0-or-later. Quien obtuvo esas versiones
+   conserva, respecto a ellas, los derechos que le concede la AGPL-3.0. Esta
+   licencia se aplica a todas las versiones publicadas desde el cambio.
+
+7. Sin garantía
+   EL SOFTWARE SE PROPORCIONA «TAL CUAL», SIN GARANTÍA DE NINGÚN TIPO, EXPRESA
+   O IMPLÍCITA, INCLUIDAS, SIN LIMITARSE A ELLAS, LAS DE COMERCIABILIDAD,
+   IDONEIDAD PARA UN FIN PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL AUTOR
+   SERÁ RESPONSABLE DE RECLAMACIONES, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA
+   EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE OTRO TIPO, DERIVADAS DEL
+   SOFTWARE O DE SU USO, EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY.
+
+8. Terminación
+   Si incumples esta licencia, tus derechos sobre el Software terminan
+   automáticamente. Todo derecho no concedido expresamente queda reservado al
+   Autor.
+
+===============================================================================
+ENGLISH (translation, for reference only)
+===============================================================================
+
+0. Definitions
+   "Software": CloudTerm (desktop and Android), its source code, binaries,
+   installers, documentation and assets included in this repository.
+   "Author": pilahito (DavidPilahito7), the copyright holder.
+   "You": any individual or legal entity that obtains the Software.
+
+1. What you MAY do (free of charge)
+   a) Download, install and USE the Software, for personal use and for internal
+      or professional use (including within a company), at no cost.
+   b) View and read the source code to study, audit or verify its security.
+   c) Build the unmodified source code solely for your own use, without
+      distributing the result.
+
+2. What you may NOT do without the Author's prior written permission
+   a) Modify the Software or create derivative works (published forks, adapted
+      versions, reusing parts of the code in another product).
+   b) Redistribute copies of the Software, modified or unmodified, by any means
+      (websites, mirror repositories, packages, torrents, etc.).
+   c) Publish the Software or versions based on it in app stores (Google Play,
+      App Store, Microsoft Store, F-Droid, Snap, Flathub or others).
+   d) Sell, rent, sublicense or charge in any way for the Software, or offer it
+      as a paid service (SaaS, hosting, etc.).
+   e) Remove or alter copyright notices or this license.
+   Permission requests go through GitHub: https://github.com/pilahito
+
+3. Trademark, name and logo
+   The name "CloudTerm", its logo and icons belong to the Author. This license
+   grants no right to use them, except to truthfully refer to the original
+   Software. No other project may use them to present itself as CloudTerm or
+   as related to it.
+
+4. Contributions
+   Contributions via pull requests to the official repository are welcome. By
+   submitting a contribution you state that you have the right to do so and
+   grant the Author a perpetual, worldwide, royalty-free, irrevocable and
+   transferable license to use, modify, sublicense and distribute that
+   contribution as part of the Software, under this or any other license.
+   Preparing a contribution in your local copy for that sole purpose is
+   permitted.
+
+5. Third-party components
+   The Software includes third-party libraries, fonts and assets under their
+   own licenses (MIT, Apache-2.0, BSD, MPL-2.0, ISC, OFL-1.1, etc.). Those
+   components are governed by their respective licenses, which this license
+   does not limit.
+
+6. Earlier versions
+   Versions of the Software released before this license change were
+   distributed under the GNU AGPL-3.0-or-later. Anyone who obtained those
+   versions keeps, with respect to them, the rights granted by the AGPL-3.0.
+   This license applies to all versions released after the change.
+
+7. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM THE SOFTWARE OR ITS USE,
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+8. Termination
+   If you breach this license, your rights to the Software terminate
+   automatically. All rights not expressly granted are reserved by the Author.
