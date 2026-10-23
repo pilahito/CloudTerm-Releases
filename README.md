@@ -16,7 +16,7 @@ Este repositorio es **solo para descargas**. El código fuente es privado.
 | **Windows** | Instalador NSIS x64 | [CloudTerm_1.1.0_x64-setup.exe](https://github.com/pilahito/CloudTerm-Releases/releases/download/desktop-v1.1.0/CloudTerm_1.1.0_x64-setup.exe) |
 | **Linux** | .deb (amd64 / arm64) | [amd64](https://github.com/pilahito/CloudTerm-Releases/releases/download/desktop-v1.1.0/CloudTerm_1.1.0_amd64.deb) · [arm64](https://github.com/pilahito/CloudTerm-Releases/releases/download/desktop-v1.1.0/CloudTerm_1.1.0_arm64.deb) |
 | **Linux** | AppImage (x86_64 / aarch64) | [x86_64](https://github.com/pilahito/CloudTerm-Releases/releases/download/desktop-v1.1.0/CloudTerm_1.1.0_amd64.AppImage) · [aarch64](https://github.com/pilahito/CloudTerm-Releases/releases/download/desktop-v1.1.0/CloudTerm_1.1.0_aarch64.AppImage) |
-| **Android** | APK firmado (Android 8+) | [CloudTerm-android-1.4.0.apk](https://github.com/pilahito/CloudTerm-Releases/releases/download/android-v1.4.0/CloudTerm-android-1.4.0.apk) |
+| **Android** | APK firmado (Android 8+) | [CloudTerm-android-1.5.1.apk](https://github.com/pilahito/CloudTerm-Releases/releases/download/android-v1.5.1/CloudTerm-android-1.5.1.apk) |
 
 Las etiquetas son `desktop-vX.Y.Z` para escritorio y `android-vX.Y.Z` para Android. Las apps buscan actualizaciones aquí.
 
